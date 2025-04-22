@@ -1,4 +1,4 @@
-# ASSINGMENTSE_Day1_Assignment
+# SE ESSENTIALS
 
 #Part 1: Introduction to Software Engineering
 
